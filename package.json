@@ -1,0 +1,26 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "esm project",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyBildanov/esm.git"
+  },
+  "keywords": [
+    "esm"
+  ],
+  "author": "SergBildanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyBildanov/esm/issues"
+  },
+  "homepage": "https://github.com/SergeyBildanov/esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
